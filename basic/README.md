@@ -11,7 +11,7 @@
 - 版本的演變
 - Demo Master and Agent 
 
-[slide](basic.key)
+[download slide](basic.key)
 
 ## Demo
 

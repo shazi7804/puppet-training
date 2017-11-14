@@ -251,8 +251,8 @@ Successful update catalog.
 
 
 
--> Demo End <-
+-> _*Demo End*_ <-
 
 
-
+-> Github: https://github.com/shazi7804/puppet-training <-
 -------------------------------------------------
