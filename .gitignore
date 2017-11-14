@@ -1,0 +1,8 @@
+.tmp/
+modules/
+.vscode/
+.bundle/
+Gemfile.lock
+vendor/
+keys/
+.DS_Store
