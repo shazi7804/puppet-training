@@ -5,4 +5,4 @@ Puppet 是一個基於實現 infrastructure as a code 的組態管理工具，�
 ## 課程項目
 
 - [Puppet 入門](basic/README.md)
-- [](manifests/README.md)
+- [動手寫 manifests](manifests/README.md)
