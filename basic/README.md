@@ -9,7 +9,7 @@
 - 架構
 - 元件
 - 版本的演變
-- Demo Master and Agent (level100) 
+- Demo Master and Agent (100 level) 
 
 [download slide](basic.key)
 
