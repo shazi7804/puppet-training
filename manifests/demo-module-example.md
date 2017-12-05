@@ -179,4 +179,5 @@ node /^node\\\.puppet\\\.com$/ {
 
 
 -> Github: https://github.com/shazi7804/puppet-training <-
+-> Gitbook: https://www.gitbook.com/book/shazi7804/puppet-manage-guide/details <-
 -------------------------------------------------
